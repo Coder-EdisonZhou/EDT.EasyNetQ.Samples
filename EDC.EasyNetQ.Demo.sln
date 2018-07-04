@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.Common", "Manulife.DNC.MSAD.Common\Manulife.DNC.MSAD.Common.csproj", "{567660C6-D0C3-488F-B43E-6F79CA82CC25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.Messages", "Manulife.DNC.MSAD.Messages\Manulife.DNC.MSAD.Messages.csproj", "{CFEB73B8-69FD-444A-BA6E-A97E2695C224}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.NB.ClientService", "Manulife.DNC.MSAD.NB.ClientService\Manulife.DNC.MSAD.NB.ClientService.csproj", "{670C0FB6-6993-4774-ABE1-71A36657ECA3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.NB.NoticeService", "Manulife.DNC.MSAD.NB.NoticeService\Manulife.DNC.MSAD.NB.NoticeService.csproj", "{3F218B92-1F3D-4CAA-BF61-C3A6EF2854D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manulife.DNC.MSAD.NB.ZAPEngineService", "Manulife.DNC.MSAD.NB.ZAPEngineService\Manulife.DNC.MSAD.NB.ZAPEngineService.csproj", "{EE714D85-51E6-4E8F-9A54-C92BFCA7BFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567660C6-D0C3-488F-B43E-6F79CA82CC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567660C6-D0C3-488F-B43E-6F79CA82CC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567660C6-D0C3-488F-B43E-6F79CA82CC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567660C6-D0C3-488F-B43E-6F79CA82CC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEB73B8-69FD-444A-BA6E-A97E2695C224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEB73B8-69FD-444A-BA6E-A97E2695C224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEB73B8-69FD-444A-BA6E-A97E2695C224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEB73B8-69FD-444A-BA6E-A97E2695C224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670C0FB6-6993-4774-ABE1-71A36657ECA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670C0FB6-6993-4774-ABE1-71A36657ECA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670C0FB6-6993-4774-ABE1-71A36657ECA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670C0FB6-6993-4774-ABE1-71A36657ECA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F218B92-1F3D-4CAA-BF61-C3A6EF2854D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F218B92-1F3D-4CAA-BF61-C3A6EF2854D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F218B92-1F3D-4CAA-BF61-C3A6EF2854D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F218B92-1F3D-4CAA-BF61-C3A6EF2854D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE714D85-51E6-4E8F-9A54-C92BFCA7BFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE714D85-51E6-4E8F-9A54-C92BFCA7BFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE714D85-51E6-4E8F-9A54-C92BFCA7BFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE714D85-51E6-4E8F-9A54-C92BFCA7BFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7983D01F-7E4C-44B6-8BB5-60EBBB4DCFC5}
+	EndGlobalSection
+EndGlobal
